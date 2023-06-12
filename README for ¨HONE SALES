@@ -1,0 +1,7 @@
+From when phone selling begin to now we have created so many different mobile phone with different manufucturers.
+here i'm am analyzing in this project the best selling phone trought the year.
+And the different mark of mobile phone creators.
+First we upload the dataframe.
+with a little problem i have with the dataframe and i couldn't do it after so many research is that the sales number per million have 
+type as "object". i could change it to string but it contain number like this "12 [56]" wich make it hard but i still continue to
+analyze and create the best i could by creating charts with plot().
